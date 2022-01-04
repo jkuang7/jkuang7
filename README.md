@@ -7,7 +7,7 @@
 - When I'm not coding, I'm probably reading 📚 or learning something new 🤔
 
 
-- 💬 If you want to say hi, [shoot me an email](mailto:corestart@gmail.com)
+💬 If you want to say hi, [shoot me an email](mailto:corestart@gmail.com)
 
 ⚙️ Languages & Tools:
 
