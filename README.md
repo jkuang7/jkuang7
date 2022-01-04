@@ -1,12 +1,12 @@
-
 ### Hi everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👩‍💻 I'm Jian, a fullstack software engineer  
 - 💻 After graduating in Computer Science, I attended Fullstack Academy to learn more about software development
-- 📜 Currently, I'm brushing up on Data Structures & Algorithms, and focusing on the fundamentals of Javascript and React.
+- 📜 Currently, I'm brushing up on Data Structures & Algorithms, and focusing on the fundamentals of Javascript and React
 - When I'm not coding, I'm reading 📚 or learning something new 🤔
 
-- 💬 If you want to say hi, [shoot me an email](mailto:corestart@gmail.com).
+-  I write and share my [findings](https://tinyurl.com/notionjian)!
+- 💬 If you want to say hi, [shoot me an email](mailto:corestart@gmail.com)
 
 - ⚙️ Languages & Tools:
 
@@ -21,5 +21,4 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
-<img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 <!--
