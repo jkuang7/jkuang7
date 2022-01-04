@@ -4,7 +4,7 @@
 - 👩‍💻 I'm Jian, a fullstack software engineer  
 - 💻 After graduating in Computer Science, I attended Fullstack Academy to learn more about software development
 - 📜 Currently, I'm brushing up on Data Structures & Algorithms, and focusing on the fundamentals of Javascript and React.
-- When I'm not coding, I'm reading 📚 or learning new things 🤔
+- When I'm not coding, I'm reading 📚 or learning something new 🤔
 
 - 💬 If you want to say hi, [shoot me an email](mailto:corestart@gmail.com).
 
