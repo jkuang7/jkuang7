@@ -6,9 +6,10 @@
 - During my free-time, I like to share my [research](https://tinyurl.com/notionjian)!
 - When I'm not coding, I'm probably reading 📚 or learning something new 🤔
 
+
 - 💬 If you want to say hi, [shoot me an email](mailto:corestart@gmail.com)
 
-- ⚙️ Languages & Tools:
+⚙️ Languages & Tools:
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
