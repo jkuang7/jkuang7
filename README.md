@@ -7,8 +7,6 @@
 - When I'm not coding, I'm probably reading 📚 or learning something new 🤔
 - During my free-time, I like to share my [research](https://tinyurl.com/jiankuang)
 
-💬 If you want to say hi, [shoot me an email](mailto:jiankuang7@gmail.com)
-
 ### ⚙️ Languages & Tools
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
