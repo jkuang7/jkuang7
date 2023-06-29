@@ -3,7 +3,7 @@
 
 - 👨‍💻 I'm Jian, a fullstack software engineer  
 - 💻 After graduating in Computer Science, I attended Fullstack Academy to learn more about software development
-- 📜 Currently, I'm working at Attentive as a Solutions Engineer
+- 📜 Currently, I'm working at Attentive as a Software Engineer
 - When I'm not coding, I'm probably reading 📚 or learning something new 🤔
 
 ### ⚙️ Languages & Tools
